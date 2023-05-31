@@ -1,4 +1,4 @@
-# OTK - Open Touch Keyboard on Windows 11 using CPP, and a AutoHotkey script to use it globally.
+# OTK - Open Touch Keyboard on Windows 11 using CPP, and an AutoHotkey script to use it globally.
 
 # Build
 - Download and install `Visual Studio 2022`
